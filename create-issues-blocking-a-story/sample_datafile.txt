@@ -1,0 +1,12 @@
+{
+    "epic": "my-epic",
+    "label": "my-label",
+    "story": "my-label",
+    "issues": [
+        {
+           "summary" : "issue summary",
+           "description" : "issue desc"
+        }
+    ]
+
+}
